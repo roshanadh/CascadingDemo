@@ -1,0 +1,5 @@
+name|gender|age
+tom|m|18
+dick|m|20
+sara|f|25
+lara|f|12

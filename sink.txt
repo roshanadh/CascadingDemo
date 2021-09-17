@@ -1,0 +1,5 @@
+name|gender
+tom|m
+dick|m
+sara|f
+lara|f

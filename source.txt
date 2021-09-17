@@ -1,0 +1,8 @@
+name;gender;age
+tom;m;18
+dick;m;20
+sara;f;25
+lara;f;12
+dylan;u;10
+pug;u;1
+aone;abcdef;77
