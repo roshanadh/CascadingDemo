@@ -29,7 +29,7 @@ public class AgeFilterDriver {
         );
 
         Pipe pipe = new Pipe("ageFilterPipe");
-        pipe = new Each("pipe", new AgeFilter());
+        pipe = new Each(pipe, new AgeFilter());
 
         FlowDef flowDef = FlowDef
                 .flowDef()
