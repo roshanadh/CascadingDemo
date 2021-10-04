@@ -1,7 +1,1 @@
-id;name;gender
-1;John;M
-2;Janet;F
-3;Tim;M
-4;Alex;M
-5;Dana;F
-6;Shey;F
+Hello Hello Hello I I am very very very very glad that I I can write this this in front front front of you all.

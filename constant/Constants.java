@@ -1,8 +1,7 @@
-package com.assignments.assignment2.constant;
+package com.assignments.assignment1.constant;
 
 public class Constants {
     public static String username = System.getProperty("user.name");
-    public static String sourceFilePath = "/home/" + username + "/IdeaProjects/CascadingAssignments/src/main/java/com/assignments/assignment2/source.txt";
-    public static String sinkMFilePath = "/home/" + username + "/IdeaProjects/CascadingAssignments/src/main/java/com/assignments/assignment2/male-sink.txt";
-    public static String sinkFFilePath = "/home/" + username + "/IdeaProjects/CascadingAssignments/src/main/java/com/assignments/assignment2/female-sink.txt";
+    public static String sourceFilePath = "/home/" + username + "/IdeaProjects/CascadingAssignments/src/main/java/com/assignments/assignment1/source.txt";
+    public static String sinkFilePath = "/home/" + username + "/IdeaProjects/CascadingAssignments/src/main/java/com/assignments/assignment1/sink.txt";
 }
