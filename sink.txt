@@ -1,4 +1,5 @@
-mbr_id|paid_amount
-1|600
-2|150
-3|500
+ssn|name
+123123123|Longest Name for 123123123
+123456789|Longest Name for 123456789
+234234234|Longest Name for 234234234
+345345345|Longest Name for 345345345

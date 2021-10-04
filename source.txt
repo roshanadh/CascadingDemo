@@ -1,7 +1,11 @@
-mbr_id;paid_amount
-1;100
-1;200
-2;150
-3;250
-3;250
-1;300
+ssn;name
+123456789;Shortest for 123456789
+123456789;Longest Name for 123456789
+123123123;Longest Name for 123123123
+123123123;Shortest for 123123123
+234234234;Shortest for 234234234
+234234234;Longest Name for 234234234
+345345345;Shortest for 345345345
+345345345;Longest Name for 345345345
+234234234;Shortest 2 for 234234234
+10;To be Filtered out
