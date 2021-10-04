@@ -1,5 +1,15 @@
-ssn|name
-123123123|Longest Name for 123123123
-123456789|Longest Name for 123456789
-234234234|Longest Name for 234234234
-345345345|Longest Name for 345345345
+word|count
+Hello|3
+I|4
+all.|1
+am|1
+can|1
+front|3
+glad|1
+in|1
+of|1
+that|1
+this|2
+very|4
+write|1
+you|1
