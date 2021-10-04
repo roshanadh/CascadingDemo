@@ -1,0 +1,4 @@
+id|name|gender
+2|Janet|F
+5|Dana|F
+6|Shey|F

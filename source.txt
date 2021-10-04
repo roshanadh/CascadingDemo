@@ -1,11 +1,7 @@
-ssn;name
-123456789;Shortest for 123456789
-123456789;Longest Name for 123456789
-123123123;Longest Name for 123123123
-123123123;Shortest for 123123123
-234234234;Shortest for 234234234
-234234234;Longest Name for 234234234
-345345345;Shortest for 345345345
-345345345;Longest Name for 345345345
-234234234;Shortest 2 for 234234234
-10;To be Filtered out
+id;name;gender
+1;John;M
+2;Janet;F
+3;Tim;M
+4;Alex;M
+5;Dana;F
+6;Shey;F
